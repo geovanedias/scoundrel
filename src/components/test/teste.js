@@ -64,7 +64,7 @@ let deckRestante = baralho.length;
 let vida = 20;
 let cartasMesa = 0;
 
-function shuffle(array) {
+function shuffle(array) { // fisher-yates shuffle @https://bost.ocks.org/mike/shuffle/
   var m = array.length, t, i;
 
   while (m) {
