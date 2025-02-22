@@ -1,17 +1,17 @@
 const baralho = [
-  { id: 'a2', type: 'damage', value: 2, image: 'a2.png' }, // ♠
-  { id: 'a3', type: 'damage', value: 3, image: 'a3.png' },
-  { id: 'a4', type: 'damage', value: 4, image: 'a4.png' },
-  { id: 'a5', type: 'damage', value: 5, image: 'a5.png' },
-  { id: 'a6', type: 'damage', value: 6, image: 'a6.png' },
-  { id: 'a7', type: 'damage', value: 7, image: 'a7.png' },
-  { id: 'a8', type: 'damage', value: 8, image: 'a8.png' },
-  { id: 'a9', type: 'damage', value: 9, image: 'a9.png' },
-  { id: 'a10', type: 'damage', value: 10, image: 'a10.png' },
-  { id: 'aJ', type: 'damage', value: 12, image: 'aJ.png' },
-  { id: 'aQ', type: 'damage', value: 13, image: 'aQ.png' },
-  { id: 'aK', type: 'damage', value: 14, image: 'aK.png' },
-  { id: 'aA', type: 'damage', value: 11, image: 'aA.png' },
+  { id: 's2', type: 'damage', value: 2, image: 's2.png' }, // ♠
+  { id: 's3', type: 'damage', value: 3, image: 's3.png' },
+  { id: 's4', type: 'damage', value: 4, image: 's4.png' },
+  { id: 's5', type: 'damage', value: 5, image: 's5.png' },
+  { id: 's6', type: 'damage', value: 6, image: 's6.png' },
+  { id: 's7', type: 'damage', value: 7, image: 's7.png' },
+  { id: 's8', type: 'damage', value: 8, image: 's8.png' },
+  { id: 's9', type: 'damage', value: 9, image: 's9.png' },
+  { id: 's10', type: 'damage', value: 10, image: 's10.png' },
+  { id: 'sJ', type: 'damage', value: 12, image: 'sJ.png' },
+  { id: 'sQ', type: 'damage', value: 13, image: 'sQ.png' },
+  { id: 'sK', type: 'damage', value: 14, image: 'sK.png' },
+  { id: 'sA', type: 'damage', value: 11, image: 'sA.png' },
 
   { id: 'c2', type: 'damage', value: 2, image: 'c2.png' }, // ♣
   { id: 'c3', type: 'damage', value: 3, image: 'c3.png' },
