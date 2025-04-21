@@ -34,8 +34,7 @@
 #dungeon {
   display: flex;
   justify-content: space-between;
-  margin: 5vh 10vw;
-  padding-top: 5vh;
+  padding: 10vh 10vw;
 
   div {
     display: flex;
@@ -67,8 +66,7 @@
 #player {
   display: flex;
   justify-content: space-between;
-  margin: 5vh 7.5vw;
-  padding: 5vh 0;
+  padding: 10vh 7.5vw;
 }
 
 #life {
